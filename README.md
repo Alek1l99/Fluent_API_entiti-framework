@@ -11,8 +11,11 @@ También se incluye la clase TareasContext que hereda de DbContext y contiene la
 Para utilizar esta API, asegúrate de tener instalados los siguientes paquetes en tu proyecto:
 
 **Microsoft.EntityFrameworkCore** v7.0.3
+
 **Microsoft.EntityFrameworkCore.Design** v7.0.3
+
 **Microsoft.EntityFrameworkCore.InMemory** v7.0.2
+
 **Microsoft.EntityFrameworkCore.SqlServer** v7.0.2
 
 # Conexion a la base de datos
